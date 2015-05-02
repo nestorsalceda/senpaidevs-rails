@@ -1,5 +1,9 @@
 Rails.application.routes.draw do
-  resources :articles
+  get 'comments/create'
+
+  resources :articles do
+    resources :comments
+  end
 
   root 'welcome#index'
 
