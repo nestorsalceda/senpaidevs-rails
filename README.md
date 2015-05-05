@@ -7,6 +7,7 @@ Si tenéis alguna duda subir una rama con vuestro código y comentamos sobre ell
 
 Material usado en la introducción a Rails de los Senpai Devs (5/5/2015)
 
+- [Panel Trello usado como base](https://trello.com/b/dUFrBxjw/senpaidevs-rails)
 - [Guía de introducción Rails que hemos usado](http://guides.rubyonrails.org/getting_started.html)
 - [Ejemplos de testing con rspec basados en el ejemplo de la guia Rails](https://github.com/howaboutwe/rspec-style-guide)
 
