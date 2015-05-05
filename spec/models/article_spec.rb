@@ -13,4 +13,12 @@ describe Article do
     expect(dummy_article).to respond_to(:text)
   end
 
+  describe 'validators' do
+    it 'title is required' do
+      wrong_article = Article.create(text: expected_title)
+      expect(wrong_article.valid?).to be_false
+      expect(wrong_article.errors).to include(:title)
+    end
+  end
+
 end
