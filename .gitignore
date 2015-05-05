@@ -39,3 +39,6 @@ bower.json
 *.iml
 atlassian-ide-plugin.xml
 nbproject
+
+# Ignore mac files
+.DS_Store
