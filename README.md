@@ -3,7 +3,7 @@
 
 Aquí os dejo los materiales que he usado para preparar la intro a Rails.
 
-Si tenéis alguna duda subir una rama con vuestro código y comentamos sobre ella.
+Si tenéis alguna duda subir una rama con vuestro código y comentamos sobre ella. (Si os queréis saltar la parte de generar el proyecto y tunear la config inicial podéis usar la rama [rails-scaffold](https://github.com/francho/senpaidevs-rails/tree/rails-scaffold) como base)
 
 Material usado en la introducción a Rails de los Senpai Devs (5/5/2015)
 
